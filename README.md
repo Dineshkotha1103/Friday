@@ -1,4 +1,4 @@
-# Friday-
+# Friday
 
 #Friday - Ur In Home AI
 
