@@ -1,7 +1,5 @@
 # Friday
 
-Friday - Ur In Home AI
-
 An interactive command-line tool that leverages AI models for text generation and image creation. This application allows users to engage with various AI models to generate text responses and images directly from their terminal.
 
 ## Features
